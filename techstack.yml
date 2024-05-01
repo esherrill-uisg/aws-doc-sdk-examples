@@ -1,0 +1,3849 @@
+repo_name: esherrill-uisg/aws-doc-sdk-examples
+report_id: 4b94f4bc44a0180aca6c32593380b877
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-01T22:38:25+00:00'
+requested_by: meyertst-aws
+provider: github
+branch: main
+detected_tools_count: 330
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '4.5'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/old/DeleteItem/DeleteItem.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/old/DeleteItem/DeleteItem.csproj"
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  version: 3.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/readmes/requirements.txt
+  detection_source: ".tools/readmes/requirements.txt"
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/kinesis-analytics-v2/example.sql
+  detection_source: python/example_code/kinesis-analytics-v2/example.sql
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj"
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj"
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/subpub_app/build.gradle.kts
+  detection_source: kotlin/usecases/subpub_app/build.gradle.kts
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/textract-react/package.json
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/aurora-serverless-app/package.json
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/cognito_flutter_mobile_app/pubspec.yaml
+  detection_source: kotlin/usecases/cognito_flutter_mobile_app/pubspec.yaml
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.json
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: Laravel
+  description: A PHP Framework For Web Artisans
+  website_url: http://laravel.com/
+  version: 9.52.7
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 15.7.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/dynamodb_ruby_example_create_movies_table/package.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/package.json
+  detection_source: php/cross_service/aurora_item_tracker/package.json
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/dynamodbasync/pom.xml
+  detection_source: javav2/example_code/dynamodbasync/pom.xml
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.71.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/clients/react/elwing/package-lock.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/scenarios/cognito-developer-guide-react-example/frontend-client/package.json
+- name: RxJava
+  description: Reactive Extensions for the JVM
+  website_url: https://github.com/ReactiveX/RxJava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2190/6407041.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/kinesis/pom.xml
+  detection_source: javav2/example_code/kinesis/pom.xml
+- name: Serde
+  description: Serialization framework for Rust
+  website_url: https://serde.rs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/11028/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: Sinatra
+  description: Classy web-development dressed in a DSL
+  website_url: http://www.sinatrarb.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/999/logo.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile
+  detection_source: ruby/Gemfile
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/CreatingSpringRedshiftRest/pom.xml
+  detection_source: javav2/usecases/CreatingSpringRedshiftRest/pom.xml
+- name: Tokio
+  description: Runtime for writing reliable asynchronous applications with Rust
+  website_url: https://tokio.rs/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/12187/bC40df3r_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: python/cross_service/photo_analyzer/frontend/package.json
+- name: Amazon S3
+  description: Store and retrieve any amount of data, at any time, from anywhere on
+    the web
+  website_url: http://aws.amazon.com/s3
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/25/amazon-s3.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: Amazon SQS
+  description: Fully managed message queuing service
+  website_url: http://aws.amazon.com/sqs/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/395/amazon-sqs.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/SQS/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample.csproj
+  detection_source: dotnetv3/SQS/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample.csproj
+- name: Cassandra
+  description: A partitioned row store. Rows are organized into tables with a required
+    primary key.
+  website_url: http://cassandra.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1032/cassandra_small.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/keyspaces/requirements.txt
+  detection_source: python/example_code/keyspaces/requirements.txt
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/rds/pom.xml
+  detection_source: javav2/example_code/rds/pom.xml
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/Creating_Spring_RDS_Rest/pom.xml
+  detection_source: javav2/usecases/Creating_Spring_RDS_Rest/pom.xml
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/memorydb/pom.xml
+  detection_source: javav2/example_code/memorydb/pom.xml
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 5.3.11
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cognito-identity-provider/package.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/package.json
+- name: Amazon CloudWatch
+  description: Monitor AWS resources and custom metrics generated by your applications
+    and services
+  website_url: http://aws.amazon.com/cloudwatch/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Cloud Monitoring
+  image_url: https://img.stackshare.io/service/401/amazon-cloudwatch.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/Dockerfile
+  detection_source: javav2/Dockerfile
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rust_dev_preview/examples/dynamodb/src/bin/docker-compose.yml
+  detection_source: rust_dev_preview/examples/dynamodb/src/bin/docker-compose.yml
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/glue/package.json
+  detection_source: javascriptv3/example_code/glue/package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.github/workflows/docker-push.yml
+  detection_source: ".github/workflows/docker-push.yml"
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/android/app/build.gradle
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/android/app/build.gradle
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/athena/pom.xml
+  detection_source: java/example_code/athena/pom.xml
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.7.25
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/codecommit/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  version: 2.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ssm/pom.xml
+  detection_source: java/example_code/ssm/pom.xml
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+  detection_source: dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 9.6.15
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/applications/photo_asset_manager/composer.json
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/Dockerfile
+  detection_source: php/Dockerfile
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascript/example_code/lambda/lambda-for-browser/package.json
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/tools/requirements.txt
+  detection_source: rustv1/tools/requirements.txt
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: RuboCop
+  description: A Ruby static code analyzer, based on the community Ruby style guide
+  website_url: http://batsov.com/rubocop/
+  version: 1.52.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2643/rubocop.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/examples/concurrency/Cargo.toml
+  detection_source: rustv1/examples/concurrency/Cargo.toml
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/codecommit/pom.xml
+  detection_source: javav2/example_code/codecommit/pom.xml
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/go-apprunner/go.mod
+  detection_source: resources/cdk/go-apprunner/go.mod
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro.sln
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro.sln"
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.76.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/lambda-api-gateway/package.json
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+- name: flake8
+  description: Tool for style guide enforcement
+  website_url: https://github.com/PyCQA/flake8
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/base_requirements.txt
+  detection_source: ".tools/base_requirements.txt"
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/webassembly/www/package.json
+  detection_source: rustv1/webassembly/www/package.json
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 6.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/cross_service/apigateway_covid-19_tracker/requirements.txt
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/feedback-sentiment-analyzer/AnalyzeSentiment/package.json
+  detection_source: javascriptv3/example_code/cross-services/feedback-sentiment-analyzer/AnalyzeSentiment/package.json
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+  detection_source: dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+- name: AWS Lambda
+  description: Automatically run code in response to modifications to objects in Amazon
+    S3 buckets, messages in Kinesis streams, or updates in DynamoDB
+  website_url: http://aws.amazon.com/lambda
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/creating_amazon_cognito_app/src/main/resources/application.yml
+  detection_source: javav2/usecases/creating_amazon_cognito_app/src/main/resources/application.yml
+- name: Amazon Kinesis
+  description: Store and process terabytes of data each hour from hundreds of thousands
+    of sources
+  website_url: http://aws.amazon.com/kinesis/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Real-time Data Processing
+  image_url: https://img.stackshare.io/service/433/default_6bea44ee4da746fbb7c9070a7ffac9b764d1ed79.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Kinesis/CreateStreamExample/CreateStreamExample/CreateStreamExample.csproj
+  detection_source: dotnetv3/Kinesis/CreateStreamExample/CreateStreamExample/CreateStreamExample.csproj
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+- name: Stream
+  description: Build scalable feeds, activity streams &amp; chat in a few hours instead
+    of months.
+  website_url: https://getstream.io/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+- name: iDoneThis
+  description: Easy daily check-ins and powerful progress reports to run more effective
+    and productive teams
+  website_url: https://idonethis.com/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Team Task Management
+  image_url: https://img.stackshare.io/service/338/default_f863a3d7f927a74d6ae21e8e152265bd07ca6cfe.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rust_dev_preview/examples/dynamodb/src/bin/docker-compose.yml
+  detection_source: rust_dev_preview/examples/dynamodb/src/bin/docker-compose.yml
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/subpub_app/build.gradle.kts
+  detection_source: kotlin/usecases/subpub_app/build.gradle.kts
+- name: Claude
+  description: A next-generation AI assistant for your tasks, no matter the scale
+  website_url: https://www.anthropic.com/product
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+  detection_source: python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.12.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/Gemfile.lock
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/Gemfile
+- name: Fetch
+  description: Fetch provides delivery for any product that is available locally in
+    under one hour
+  website_url: http://www.wefetch.it/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascript/example_code/athena/package.json
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/ses/package.json
+  detection_source: javascriptv3/example_code/ses/package.json
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.24.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/greengrass/requirements.txt
+  detection_source: python/example_code/greengrass/requirements.txt
+- name: Postscript
+  description: Mailchimp for SMS
+  website_url: https://www.postscript.io/
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/10628/YjdR4whL_400x400.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: PyYAML
+  website_url: http://pyyaml.org/wiki/PyYAML
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/base_requirements.txt
+  detection_source: ".tools/base_requirements.txt"
+- name: Ramda
+  description: A practical functional library for JavaScript programmers
+  website_url: https://ramdajs.com/
+  version: 0.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3076/Ramda-01.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/clients/react/elwing/package-lock.json
+  detection_source: resources/clients/react/elwing/package.json
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples
+  detection_source: Repo Metadata
+- name: Showdown
+  description: JavaScript port of Markdown
+  website_url: https://github.com/coreyti/showdown
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/clients/react/elwing/package-lock.json
+  detection_source: resources/clients/react/elwing/package.json
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.github/sd-cpp-linter/Dockerfile
+  detection_source: ".github/sd-cpp-linter/Dockerfile"
+- name: Websockets
+  description: A technology that makes it possible to open a two-way interactive communication
+  website_url: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+  version: '10.4'
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4220/LNPwoiWi_400x400.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/apigateway_websocket_chat/requirements.txt
+  detection_source: python/cross_service/apigateway_websocket_chat/requirements.txt
+- name: WireMock
+  description: A Java tool to capture HTTP requests and mock them
+  website_url: http://wiremock.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4267/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: Zod
+  description: TypeScript-first schema validation
+  website_url: https://zod.dev/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/bedrock-agent-runtime/package.json
+  detection_source: javascriptv3/example_code/bedrock-agent-runtime/package.json
+- name: actix-web
+  website_url: https://github.com/actix/actix-web
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10959/32776943.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/cross_service/rest_ses/Cargo.toml
+  detection_source: rustv1/cross_service/rest_ses/Cargo.toml
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/ailly/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/wkflw-resilient-service/package.json
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/glue/package.json
+  detection_source: javascriptv3/example_code/glue/package.json
+- name: laravel-mix
+  description: A framework for web artisans.
+  website_url: https://laravel.com/docs/5.5/mix
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7945/h7umz7fz_normal.jpg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/package.json
+  detection_source: php/cross_service/aurora_item_tracker/package.json
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/package.json
+  detection_source: javascriptv3/package.json
+- name: org.jdom:jdom
+  description: A complete
+  version: 2.0.2
+  license: zlib-acknowledgement
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/Creating_etl_workflow/pom.xml
+  detection_source: javav2/usecases/Creating_etl_workflow/pom.xml
+  vulnerabilities:
+  - name: XML External Entity (XXE) Injection in JDOM
+    cve_id: CVE-2021-33813
+    cve_url: https://github.com/advisories/GHSA-2363-cqg2-863c
+    detected_date: Aug 22
+    severity: high
+    first_patched:
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  version: 8.0.21
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/rds/pom.xml
+  detection_source: javav2/example_code/rds/pom.xml
+  vulnerabilities:
+  - name: Incorrect Authorization in MySQL Connector Java
+    cve_id: CVE-2021-2471
+    cve_url: https://github.com/advisories/GHSA-w6f2-8wx4-47r5
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 8.0.27
+  - name: Improper Handling of Insufficient Permissions or Privileges in MySQL Connectors
+      Java
+    cve_id: CVE-2022-21363
+    cve_url: https://github.com/advisories/GHSA-g76j-4cxx-23h9
+    detected_date: Jun 21
+    severity: moderate
+    first_patched: 8.0.28
+- name: org.apache.commons:commons-io
+  description: Commons-IO contains utility classes
+  version: 1.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/kinesis/pom.xml
+  detection_source: javav2/example_code/kinesis/pom.xml
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Feb 15
+    severity: moderate
+    first_patched:
+- name: org.bouncycastle:bcprov-jdk16
+  description: The Bouncy Castle Crypto package is a Java implementation of cryptographic
+    algorithms
+  version: '1.45'
+  license: LAL-1.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/s3/pom.xml
+  detection_source: java/example_code/s3/pom.xml
+  vulnerabilities:
+  - name: Observable Differences in Behavior to Error Inputs in Bouncy Castle
+    cve_id: CVE-2020-26939
+    cve_url: https://github.com/advisories/GHSA-72m5-fvvv-55m6
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: '1.61'
+  - name: Bouncy Castle Denial of Service (DoS)
+    cve_id: CVE-2023-33202
+    cve_url: https://github.com/advisories/GHSA-wjxj-5m7g-mg7q
+    detected_date: Mar 15
+    severity: moderate
+    first_patched: '1.73'
+  - name: Timing based private key exposure in Bouncy Castle
+    cve_id: CVE-2020-15522
+    cve_url: https://github.com/advisories/GHSA-6xx3-rg99-gc3p
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: '1.66'
+- name: com.amazonaws:aws-java-sdk-cloudwatch
+  description: The AWS Java SDK for Amazon CloudWatch module holds the client classes
+    that are used for communicating with Amazon CloudWatch Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/cloudwatch/pom.xml
+  detection_source: java/example_code/cloudwatch/pom.xml
+- name: com.amazonaws:aws-java-sdk-core
+  description: The AWS SDK for Java - Core module holds the classes that are used
+    by the individual service clients to interact with Amazon Web Services
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/cognito/pom.xml
+  detection_source: java/example_code/cognito/pom.xml
+- name: com.amazonaws:aws-java-sdk-dynamodb
+  description: The AWS Java SDK for Amazon DynamoDB module holds the client classes
+    that are used for communicating with Amazon DynamoDB Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/dynamodb/pom.xml
+  detection_source: java/example_code/dynamodb/pom.xml
+- name: com.amazonaws:aws-java-sdk-ec2
+  description: The AWS Java SDK for Amazon EC2 module holds the client classes that
+    are used for communicating with Amazon EC2 Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ec2/pom.xml
+  detection_source: java/example_code/ec2/pom.xml
+- name: com.amazonaws:aws-java-sdk-iam
+  description: The AWS Java SDK for AWS IAM module holds the client classes that are
+    used for communicating with AWS Identity and Access Management Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/iam/pom.xml
+  detection_source: java/example_code/iam/pom.xml
+- name: com.amazonaws:aws-java-sdk-kinesis
+  description: The AWS Java SDK for Amazon Kinesis module holds the client classes
+    that are used for communicating with Amazon Kinesis Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/general/pom.xml
+  detection_source: java/example_code/general/pom.xml
+- name: com.amazonaws:aws-java-sdk-kms
+  description: The AWS Java SDK for AWS KMS module holds the client classes that are
+    used for communicating with AWS Key Management Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/kms/pom.xml
+  detection_source: java/example_code/kms/pom.xml
+- name: com.amazonaws:aws-java-sdk-lambda
+  description: The AWS Java SDK for AWS Lambda module holds the client classes that
+    are used for communicating with AWS Lambda Service
+  version: 1.11.648
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/lambda/pom.xml
+  detection_source: java/example_code/lambda/pom.xml
+- name: com.amazonaws:aws-java-sdk-logs
+  description: The AWS Java SDK for Amazon CloudWatch Logs module holds the client
+    classes that are used for communicating with Amazon CloudWatch Logs Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/cloudwatch/pom.xml
+  detection_source: java/example_code/cloudwatch/pom.xml
+- name: com.amazonaws:aws-java-sdk-s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    is used for communicating with Amazon Simple Storage Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/s3/pom.xml
+  detection_source: java/example_code/s3/pom.xml
+- name: com.amazonaws:aws-java-sdk-sqs
+  description: The AWS Java SDK for Amazon SQS module holds the client classes that
+    are used for communicating with Amazon Simple Queue Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/sqs/pom.xml
+  detection_source: java/example_code/sqs/pom.xml
+- name: com.amazonaws:aws-java-sdk-ssm
+  description: The AWS Java SDK for AWS Simple Systems Management Service holds the
+    client classes that are used for communicating with the AWS Simple Systems Management
+    Service
+  version: 1.11.709
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ssm/pom.xml
+  detection_source: java/example_code/ssm/pom.xml
+- name: com.amazonaws:aws-java-sdk-sts
+  description: The AWS Java SDK for AWS STS module holds the client classes that are
+    used for communicating with AWS Security Token Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/s3/pom.xml
+  detection_source: java/example_code/s3/pom.xml
+- name: com.datastax.cassandra:cassandra-driver-core
+  description: A driver for Apache Cassandra 1.2+ that works exclusively with the
+    Cassandra Query Language version 3
+  version: 3.11.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/keyspaces/pom.xml
+  detection_source: javav2/example_code/keyspaces/pom.xml
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  version: 2.14.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudwatch/pom.xml
+  detection_source: javav2/example_code/cloudwatch/pom.xml
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  version: 2.14.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudwatch/pom.xml
+  detection_source: javav2/example_code/cloudwatch/pom.xml
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.10.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/apigateway/pom.xml
+  detection_source: javav2/example_code/apigateway/pom.xml
+- name: com.googlecode.json-simple:json-simple
+  description: A simple Java toolkit for JSON
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudfront/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: com.mashape.unirest:unirest-java
+  description: Simplified, lightweight HTTP client library
+  version: 1.4.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_amazon_personalize_app/pom.xml
+  detection_source: javav2/usecases/create_amazon_personalize_app/pom.xml
+- name: com.sun.mail:javax.mail
+  description: "${project.name}"
+  version: 1.5.5
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_workflow_redshift/pom.xml
+  detection_source: javav2/usecases/create_workflow_redshift/pom.xml
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  version: 1.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/lookoutvision/pom.xml
+  detection_source: javav2/example_code/lookoutvision/pom.xml
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: 2.15.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/bedrock-runtime/pom.xml
+  detection_source: javav2/example_code/bedrock-runtime/pom.xml
+- name: commons-logging:commons-logging
+  description: Apache Commons Logging is a thin adapter allowing configurable bridging
+    to other
+  version: '1.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/creating_fsa_app/pom.xml
+  detection_source: javav2/usecases/creating_fsa_app/pom.xml
+- name: io.projectreactor:reactor-core
+  description: Non-Blocking Reactive Foundation for the JVM
+  version: 3.5.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/kinesis/pom.xml
+  detection_source: javav2/example_code/dynamodbasync/pom.xml
+- name: io.reactivex.rxjava2:rxjava
+  description: Reactive Extensions for Java
+  version: 2.2.21
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/kinesis/pom.xml
+  detection_source: javav2/example_code/kinesis/pom.xml
+- name: javax.mail:javax.mail-api
+  version: 1.5.5
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_workflow_redshift/pom.xml
+  detection_source: javav2/usecases/create_workflow_redshift/pom.xml
+- name: javax.mail:mailapi
+  version: 1.4.3
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/video_analyzer_application/pom.xml
+  detection_source: javav2/usecases/video_analyzer_application/pom.xml
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/athena/pom.xml
+  detection_source: java/example_code/athena/pom.xml
+- name: net.sf.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  version: '2.3'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_amazon_personalize_app/pom.xml
+  detection_source: javav2/usecases/create_amazon_personalize_app/pom.xml
+- name: net.sourceforge.jexcelapi:jxl
+  description: JExcelApi is a java library which provides the ability to read
+  version: 2.6.10
+  license: LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/CreatingSpringRedshiftRest/pom.xml
+  detection_source: javav2/usecases/CreatingSpringRedshiftRest/pom.xml
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: 3.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/s3/pom.xml
+  detection_source: javav2/example_code/s3/pom.xml
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  version: 4.5.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/resilient_service/pom.xml
+  detection_source: javav2/usecases/resilient_service/pom.xml
+- name: org.apache.logging.log4j:log4j-1.2-api
+  description: The Apache Log4j 1.x Compatibility API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudfront/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  version: 2.20.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/support/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  version: 2.17.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_workflow_redshift/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: org.apache.logging.log4j:log4j-slf4j18-impl
+  description: The Apache Log4j SLF4J 1.8 API binding to Log4j 2 Core
+  version: 2.17.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_workflow_redshift/pom.xml
+  detection_source: javav2/usecases/create_workflow_redshift/pom.xml
+- name: org.apache.maven.plugins:maven-compiler-plugin
+  description: The Compiler Plugin is used to compile the sources of your project
+  version: 3.11.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_amazon_personalize_app/pom.xml
+  detection_source: javav2/usecases/create_amazon_personalize_app/pom.xml
+- name: org.apache.maven.plugins:maven-surefire-plugin
+  description: Maven Surefire MOJO in maven-surefire-plugin
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/creating_lambda_apigateway/pom.xml
+  detection_source: javav2/usecases/creating_lambda_apigateway/pom.xml
+- name: org.apache.maven.surefire:surefire-booter
+  description: API and Facilities used by forked tests running in JVM sub-process
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/creating_fsa_app/pom.xml
+  detection_source: javav2/usecases/creating_fsa_app/pom.xml
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  version: 3.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ssm/pom.xml
+  detection_source: java/example_code/ssm/pom.xml
+- name: org.hamcrest:hamcrest-all
+  description: A self-contained hamcrest jar containing all of the sub-modules in
+    a single artifact
+  version: '1.3'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/ses/pom.xml
+  detection_source: javav2/example_code/ses/pom.xml
+- name: org.json:json
+  description: JSON is a light-weight, language independent, data interchange format
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/bedrock-runtime/pom.xml
+  detection_source: javav2/example_code/bedrock-runtime/pom.xml
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  version: 5.4.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/mq/pom.xml
+  detection_source: javav2/example_code/mq/pom.xml
+- name: org.junit.jupiter:junit-jupiter-api
+  description: Module "junit-jupiter-api" of JUnit 5
+  version: 5.8.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/apigateway/pom.xml
+  detection_source: javav2/example_code/apigateway/pom.xml
+- name: org.junit.jupiter:junit-jupiter-engine
+  description: Module "junit-jupiter-engine" of JUnit 5
+  version: 5.8.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/apigateway/pom.xml
+  detection_source: javav2/example_code/apigateway/pom.xml
+- name: org.junit.platform:junit-platform-commons
+  description: Module "junit-platform-commons" of JUnit 5
+  version: 1.8.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/apigateway/pom.xml
+  detection_source: javav2/example_code/apigateway/pom.xml
+- name: org.junit.platform:junit-platform-launcher
+  description: Module "junit-platform-launcher" of JUnit 5
+  version: 1.8.2
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/apigateway/pom.xml
+  detection_source: javav2/example_code/apigateway/pom.xml
+- name: org.mockito:mockito-all
+  description: Mock objects library for java
+  version: 1.10.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ssm/pom.xml
+  detection_source: java/example_code/ssm/pom.xml
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  version: 2.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/java/example_code/ssm/pom.xml
+  detection_source: java/example_code/ssm/pom.xml
+- name: org.mortbay.jetty:jetty
+  description: Jetty server core
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_amazon_personalize_app/pom.xml
+  detection_source: javav2/usecases/create_amazon_personalize_app/pom.xml
+- name: org.postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  version: 42.7.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/Creating_Spring_RDS_Rest/pom.xml
+  detection_source: javav2/usecases/Creating_Spring_RDS_Rest/pom.xml
+- name: org.slf4j:jcl-over-slf4j
+  description: JCL 1.2 implemented over SLF4J
+  version: 1.7.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/iam/pom.xml
+  detection_source: javav2/example_code/iam/pom.xml
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.7.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/codecommit/pom.xml
+  detection_source: javav2/example_code/codecommit/pom.xml
+- name: org.slf4j:slf4j-simple
+  description: SLF4J Simple binding
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/medicalimaging/pom.xml
+  detection_source: javav2/example_code/medicalimaging/pom.xml
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/creating_amazon_cognito_app/pom.xml
+  detection_source: javav2/usecases/creating_amazon_cognito_app/pom.xml
+- name: redis.clients:jedis
+  description: Jedis is a blazingly small and sane Redis java client
+  version: 2.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/memorydb/pom.xml
+  detection_source: javav2/example_code/memorydb/pom.xml
+- name: software.amazon.awssdk:cloudwatch
+  description: The AWS Java SDK for Amazon CloudWatch module holds the client classes
+    that are used for communicating with Amazon CloudWatch Service
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudwatch/pom.xml
+  detection_source: javav2/example_code/cloudwatch/pom.xml
+- name: software.amazon.awssdk:ecs
+  description: The AWS Java SDK for the Amazon EC2 Container Service holds the client
+    classes that are used for communicating with the Amazon EC2 Container Service
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/example_code/ecs/pom.xml
+  detection_source: javav2/example_code/ecs/pom.xml
+- name: software.amazon.awssdk:s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    are used for communicating with Amazon Simple Storage Service
+  version: 2.20.68
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javav2/usecases/create_amazon_personalize_app/pom.xml
+  detection_source: javav2/example_code/cloudfront/pom.xml
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.804.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/javascript_example_code_transcribe_demo/package-lock.json
+  detection_source: javascript/example_code/athena/package.json
+  vulnerabilities:
+  - name: Prototype Pollution via file load in aws-sdk and @aws-sdk/shared-ini-file-loader
+    cve_id: CVE-2020-28472
+    cve_url: https://github.com/advisories/GHSA-rrc9-gqf8-8rwg
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.814.0
+- name: "@aws-sdk/types"
+  description: Types for the AWS SDK
+  package_url: https://www.npmjs.com/@aws-sdk/types
+  version: 3.535.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17340/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/ailly/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/video-analyzer/package.json
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: "@react-native-community/eslint-config"
+  description: ESLint config for React Native
+  package_url: https://www.npmjs.com/@react-native-community/eslint-config
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18225/default_88b0d2e50daafd07d82e1afc6ee8f1b97181a07d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 11.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/feedback-sentiment-analyzer/AnalyzeSentiment/package.json
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/textract-react/package.json
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 12.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/textract-react/package.json
+- name: "@types/aws-lambda"
+  description: TypeScript definitions for AWS Lambda
+  package_url: https://www.npmjs.com/@types/aws-lambda
+  version: 8.10.119
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17868/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/aurora-serverless-app/package.json
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.195
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/photo-asset-manager/package.json
+  detection_source: javascriptv3/example_code/cross-services/photo-asset-manager/package.json
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.19.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/ailly/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: "@types/prettier"
+  description: TypeScript definitions for prettier
+  package_url: https://www.npmjs.com/@types/prettier
+  version: 2.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16943/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: resources/cdk/ecr_repositories/package.json
+- name: "@types/ramda"
+  description: TypeScript definitions for ramda
+  package_url: https://www.npmjs.com/@types/ramda
+  version: 0.28.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16750/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/clients/react/elwing/package-lock.json
+  detection_source: resources/clients/react/elwing/package.json
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cognito-identity-provider/scenarios/cognito-developer-guide-react-example/frontend-client/package.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/scenarios/cognito-developer-guide-react-example/frontend-client/package.json
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/photo-asset-manager/package.json
+  detection_source: javascriptv3/example_code/cross-services/photo-asset-manager/package.json
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.54.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.54.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/javascript_example_code_transcribe_demo/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/photo-asset-manager/package.json
+- name: babel-cli
+  description: Babel command line
+  package_url: https://www.npmjs.com/babel-cli
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15804/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: babel-plugin-transform-class-properties
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/babel-plugin-transform-class-properties
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/ddb-item-tracker/package.json
+- name: canvas
+  description: Canvas graphics API backed by Cairo
+  package_url: https://www.npmjs.com/canvas
+  version: 2.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16664/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/textract-react/package.json
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/ailly/package-lock.json
+  detection_source: javascriptv3/example_code/glue/package.json
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/aurora-serverless-app/package.json
+- name: crypto-js
+  description: JavaScript library of crypto standards
+  package_url: https://www.npmjs.com/crypto-js
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cognito-identity-provider/package.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/package.json
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 3.6.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/package.json
+  detection_source: javascriptv3/package.json
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/package.json
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/aurora-serverless-app/yarn.lock
+  detection_source: javascriptv3/example_code/cross-services/aurora-serverless-app/package.json
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/photo-analyzer-ppe/package.json
+  detection_source: javascriptv3/example_code/cross-services/photo-analyzer-ppe/package.json
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: rustv1/webassembly/www/package.json
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 9.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/glue/package.json
+  detection_source: javascriptv3/example_code/glue/package.json
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: laravel-mix
+  description: Laravel Mix is an elegant wrapper around Webpack for the 80% use case
+  package_url: https://www.npmjs.com/laravel-mix
+  version: 6.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17350/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/package.json
+  detection_source: php/cross_service/aurora_item_tracker/package.json
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 14.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/package.json
+  detection_source: javascriptv3/package.json
+- name: metro-react-native-babel-preset
+  description: Babel preset for React Native applications
+  package_url: https://www.npmjs.com/metro-react-native-babel-preset
+  version: 0.73.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  version: 15.7.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/dynamodb_ruby_example_create_movies_table/package.json
+  detection_source: resources/cdk/dynamodb_ruby_example_create_movies_table/package.json
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.tools/ailly/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: node-uuid
+  description: Rigorous implementation of RFC4122
+  package_url: https://www.npmjs.com/node-uuid
+  version: 1.4.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16142/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/ddb-item-tracker/package.json
+  detection_source: javascriptv3/example_code/cross-services/ddb-item-tracker/package.json
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 8.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/glue/package.json
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+- name: qrcode-terminal
+  description: QRCodes, in the terminal
+  package_url: https://www.npmjs.com/qrcode-terminal
+  version: 0.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18610/default_1f32939697c9f15330e44e8bcc5c2e71552d2a33.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cognito-identity-provider/package.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/package.json
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/cross-services/transcription-app/package.json
+  detection_source: javascriptv3/example_code/cross-services/transcription-app/package.json
+- name: react-bootstrap
+  description: Bootstrap 3 components built with React
+  package_url: https://www.npmjs.com/react-bootstrap
+  version: 2.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: python/cross_service/photo_analyzer/frontend/package.json
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.71.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/package.json
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/clients/react/elwing/package-lock.json
+  detection_source: javascriptv3/example_code/cognito-identity-provider/scenarios/cognito-developer-guide-react-example/frontend-client/package.json
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/textract-react/package.json
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/cdk/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/cdk/package.json
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.5.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/applications/feedback_sentiment_analyzer/client/package-lock.json
+  detection_source: applications/feedback_sentiment_analyzer/client/package.json
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/webassembly/www/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/lambda-api-gateway/package.json
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 4.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: rustv1/webassembly/www/package.json
+- name: workbox-webpack-plugin
+  description: A plugin for your Webpack build process
+  package_url: https://www.npmjs.com/workbox-webpack-plugin
+  version: 6.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16470/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/photo_analyzer/frontend/package-lock.json
+  detection_source: javascriptv3/example_code/cross-services/transcribe-streaming-app/package.json
+- name: AWSSDK
+  description: This is the previous version 2 generation of the AWS SDK for .NET
+  package_url: https://www.nuget.org/AWSSDK
+  version: 2.3.55
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13232/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: AWSSDK.CloudWatch
+  description: Amazon CloudWatch is a monitoring service for AWS cloud resources and
+    the applications you run on AWS
+  package_url: https://www.nuget.org/AWSSDK.CloudWatch
+  version: 3.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15059/default_cd84d37fa962480e0610fac8de80c5f462ec4246.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: AWSSDK.CloudWatchLogs
+  description: Amazon CloudWatch is a monitoring service for AWS cloud resources and
+    the applications you run on AWS
+  package_url: https://www.nuget.org/AWSSDK.CloudWatchLogs
+  version: 3.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14938/default_07ade81be04e341d8bd0772835ab2d3c452fbc90.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: AWSSDK.Core
+  description: The Amazon Web Services SDK for .NET - Core Runtime
+  package_url: https://www.nuget.org/AWSSDK.Core
+  version: 3.3.24
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12979/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj"
+- name: AWSSDK.DynamoDBv2
+  description: Amazon DynamoDB is a fast and flexible NoSQL database service for all
+    applications that need consistent
+  package_url: https://www.nuget.org/AWSSDK.DynamoDBv2
+  version: 3.3.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13230/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj"
+- name: AWSSDK.EC2
+  description: Amazon Elastic Compute Cloud
+  package_url: https://www.nuget.org/AWSSDK.EC2
+  version: 3.1.19
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14422/default_dce15353d4e7d6b267167f9d58dad465610db3e6.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/ec2/SampleHarness/packages.config
+  detection_source: ".dotnet/example_code_legacy/ec2/SampleHarness/packages.config"
+- name: AWSSDK.Extensions.NETCore.Setup
+  description: Extensions for the AWS SDK for .NET to integrate with .NET Core configuration
+    and dependency injection frameworks
+  package_url: https://www.nuget.org/AWSSDK.Extensions.NETCore.Setup
+  version: 3.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13789/default_300517a0879bc10cd5f0e9cabc8af8536f57ba23.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Aurora/Actions/AuroraActions.csproj
+  detection_source: dotnetv3/Aurora/Actions/AuroraActions.csproj
+- name: AWSSDK.KeyManagementService
+  description: AWS Key Management Service
+  package_url: https://www.nuget.org/AWSSDK.KeyManagementService
+  version: 3.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14939/default_6f7b14f6fa3d3719d04c791869b9be69cfb8e6e1.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/KMS/CreateAliasExample/CreateAliasExample.csproj
+  detection_source: dotnetv3/KMS/CreateAliasExample/CreateAliasExample.csproj
+- name: AWSSDK.Kinesis
+  description: Amazon Kinesis is a fully managed
+  package_url: https://www.nuget.org/AWSSDK.Kinesis
+  version: 3.7.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14319/default_0615d1d53c042ae7bd040d1334cdceff0f407ce6.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Kinesis/CreateStreamExample/CreateStreamExample/CreateStreamExample.csproj
+  detection_source: dotnetv3/Kinesis/CreateStreamExample/CreateStreamExample/CreateStreamExample.csproj
+- name: AWSSDK.Lambda
+  description: AWS Lambda is a compute service that runs your code in response to
+    events and automatically manages the compute resources for you
+  package_url: https://www.nuget.org/AWSSDK.Lambda
+  version: 3.7.105
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14318/default_23fb0d89093c35204157db4633c2a16b5403b10a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Lambda/Actions/LambdaActions.csproj
+  detection_source: dotnetv3/Lambda/Actions/LambdaActions.csproj
+- name: AWSSDK.S3
+  description: Amazon Simple Storage Service
+  package_url: https://www.nuget.org/AWSSDK.S3
+  version: 3.3.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13054/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config
+  detection_source: ".dotnet/example_code_legacy/CloudWatch/AwsCloudWatchSample1/packages.config"
+- name: AWSSDK.SQS
+  description: Amazon Simple Queue Service
+  package_url: https://www.nuget.org/AWSSDK.SQS
+  version: 3.7.200
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13304/default_a905ee276a536c55784ed56585a51a44d19b6d5b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/SQS/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample.csproj
+  detection_source: dotnetv3/SQS/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample/AuthorizeS3ToSendMessageExample.csproj
+- name: AWSSDK.SecretsManager
+  description: AWS Secrets Manager enables you to easily create and manage the secrets
+    that you use in your customer-facing apps
+  package_url: https://www.nuget.org/AWSSDK.SecretsManager
+  version: 3.7.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14728/default_e55426ca0a5be02533e4d7860b92b2b88eddcdfa.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/SecretsManager/GetSecretValue/GetSecretValueExample/GetSecretValueExample.csproj
+  detection_source: dotnetv3/SecretsManager/GetSecretValue/GetSecretValueExample/GetSecretValueExample.csproj
+- name: AWSSDK.SecurityToken
+  description: The AWS Security Token Service
+  package_url: https://www.nuget.org/AWSSDK.SecurityToken
+  version: 3.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14179/default_0c3398e5ddb91832a848d16554c86b81334b54d2.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/S3/S3Examples/packages.config
+  detection_source: ".dotnet/example_code_legacy/S3/S3Examples/packages.config"
+- name: AWSSDK.SimpleEmail
+  description: Amazon SES is an outbound-only email-sending service that provides
+    an easy
+  package_url: https://www.nuget.org/AWSSDK.SimpleEmail
+  version: 3.7.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14215/default_75b7ba0020e09eda0565b74d44da00c8b02d4389.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/SES/Actions/SESActions.csproj
+  detection_source: dotnetv3/SES/Actions/SESActions.csproj
+- name: AWSSDK.SimpleNotificationService
+  description: Amazon Simple Notification Service
+  package_url: https://www.nuget.org/AWSSDK.SimpleNotificationService
+  version: 3.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13531/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code_legacy/SNS/SNSSample1/SNSSample1/SNSSample1.csproj
+  detection_source: ".dotnet/example_code_legacy/SNS/SNSSample1/SNSSample1/SNSSample1.csproj"
+- name: AWSSDK.SimpleSystemsManagement
+  description: Amazon EC2 Simple Systems Manager
+  package_url: https://www.nuget.org/AWSSDK.SimpleSystemsManagement
+  version: 3.7.102
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14937/default_928a6ae9d9929f2f2734138576f994df9357e39a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/EC2/Actions/EC2Actions.csproj
+  detection_source: dotnetv3/EC2/Actions/EC2Actions.csproj
+- name: Amazon.Lambda.APIGatewayEvents
+  description: Amazon Lambda .NET Core support - API Gateway package
+  package_url: https://www.nuget.org/Amazon.Lambda.APIGatewayEvents
+  version: 2.6.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14165/default_95e62237fe99b6cac91c2c45f56ea2f28dc7a851.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/cross-service/PhotoAssetManager/PamApiAnnotations/PamApiAnnotations.csproj
+  detection_source: dotnetv3/cross-service/PhotoAssetManager/PamApiAnnotations/PamApiAnnotations.csproj
+- name: Amazon.Lambda.Core
+  description: Amazon Lambda .NET Core support - Core package
+  package_url: https://www.nuget.org/Amazon.Lambda.Core
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13609/default_2fed3dd41a57ad03758b88d7d49dbbc498986493.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Lambda/LambdaCalculator/LambdaCalculator/LambdaCalculator.csproj
+  detection_source: dotnetv3/Lambda/LambdaCalculator/LambdaCalculator/LambdaCalculator.csproj
+- name: CassandraCSharpDriver
+  description: A modern
+  package_url: https://www.nuget.org/CassandraCSharpDriver
+  version: 3.19.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13817/default_09c85dd1bb0789ff721cf2f6a004e0a20121dfe9.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Keyspaces/Scenarios/KeyspacesScenario.csproj
+  detection_source: dotnetv3/Keyspaces/Scenarios/KeyspacesScenario.csproj
+- name: CsvHelper
+  description: A library for reading and writing CSV files
+  package_url: https://www.nuget.org/CsvHelper
+  version: 29.0.0
+  license: MS-PL,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13020/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/cross-service/AuroraItemTracker/AuroraItemTracker/AuroraItemTracker.csproj
+  detection_source: dotnetv3/cross-service/AuroraItemTracker/AuroraItemTracker/AuroraItemTracker.csproj
+- name: MSTest.TestFramework
+  description: This is MSTest V2, the evolution of Microsoft's Test Framework
+  package_url: https://www.nuget.org/MSTest.TestFramework
+  version: 2.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/S3/S3_BasicsScenarioTests/S3_BasicsScenarioTests.csproj
+  detection_source: dotnetv3/S3/S3_BasicsScenarioTests/S3_BasicsScenarioTests.csproj
+- name: Microsoft.AspNetCore.Mvc.Formatters.Json
+  description: ASP.NET Core MVC formatters for JSON input and output and for JSON
+    PATCH input using Json.NET
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Formatters.Json
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13221/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Keyspaces/Scenarios/KeyspacesScenario.csproj
+  detection_source: dotnetv3/Keyspaces/Scenarios/KeyspacesScenario.csproj
+- name: Microsoft.Extensions.Configuration
+  description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/IAM/Scenarios/IamScenariosCommon/IamScenariosCommon.csproj
+  detection_source: dotnetv3/IAM/Scenarios/IamScenariosCommon/IamScenariosCommon.csproj
+- name: Microsoft.Extensions.Configuration.Abstractions
+  description: Abstractions of key-value pair based configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/cross-service/ResilientService/AutoScalerActions/AutoScalerActions.csproj
+  detection_source: dotnetv3/cross-service/ResilientService/AutoScalerActions/AutoScalerActions.csproj
+- name: Microsoft.Extensions.Configuration.FileExtensions
+  description: Extension methods for configuring file-based configuration providers
+    for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.FileExtensions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12936/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/MediaConvert/Scenarios/CreateJob/CreateJob.csproj
+  detection_source: dotnetv3/MediaConvert/Scenarios/CreateJob/CreateJob.csproj
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Aurora/Tests/AuroraTests.csproj
+  detection_source: dotnetv3/Aurora/Tests/AuroraTests.csproj
+- name: Microsoft.Extensions.DependencyInjection
+  description: Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Aurora/Actions/AuroraActions.csproj
+  detection_source: dotnetv3/Aurora/Actions/AuroraActions.csproj
+- name: Microsoft.Extensions.DependencyInjection.Abstractions
+  description: Abstractions for dependency injection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12848/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/IAM/Scenarios/IamScenariosCommon/IamScenariosCommon.csproj
+  detection_source: dotnetv3/IAM/Scenarios/IamScenariosCommon/IamScenariosCommon.csproj
+- name: Microsoft.Extensions.Hosting
+  description: ".NET Core hosting and startup infrastructures for applications"
+  package_url: https://www.nuget.org/Microsoft.Extensions.Hosting
+  version: 6.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13013/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Aurora/Actions/AuroraActions.csproj
+  detection_source: dotnetv3/Aurora/Actions/AuroraActions.csproj
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/ECS/ECSActions/ECSActions.csproj
+  detection_source: dotnetv3/ECS/ECSActions/ECSActions.csproj
+- name: Microsoft.Extensions.Logging.Abstractions
+  description: Logging abstractions for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/CloudWatch/Tests/CloudWatchTests.csproj
+  detection_source: dotnetv3/CloudWatch/Tests/CloudWatchTests.csproj
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 13.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj
+  detection_source: ".dotnet/example_code/DynamoDB/GettingStarted/DynamoDB_intro/DynamoDB_intro/DynamoDB_intro.csproj"
+- name: StyleCop.Analyzers
+  description: An implementation of StyleCop's rules using Roslyn analyzers and code
+    fixes
+  package_url: https://www.nuget.org/StyleCop.Analyzers
+  version: 1.1.118
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12996/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/CloudWatchLogs/AssociateKmsKeyExample/AssociateKmsKeyExample.csproj
+  detection_source: dotnetv3/CloudWatchLogs/AssociateKmsKeyExample/AssociateKmsKeyExample.csproj
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 6.4.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/cross-service/AuroraItemTracker/AuroraItemTracker/AuroraItemTracker.csproj
+  detection_source: dotnetv3/cross-service/AuroraItemTracker/AuroraItemTracker/AuroraItemTracker.csproj
+- name: System.Drawing.Common
+  description: Provides access to GDI+ graphics functionality
+  package_url: https://www.nuget.org/System.Drawing.Common
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12911/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/Rekognition/FaceRekognitionExample/FaceRekognitionExample/FaceRekognitionExample.csproj
+  detection_source: dotnetv3/Rekognition/FaceRekognitionExample/FaceRekognitionExample/FaceRekognitionExample.csproj
+- name: System.Text.Json
+  description: Provides high-performance and low-allocating types that serialize objects
+    to JavaScript Object Notation
+  package_url: https://www.nuget.org/System.Text.Json
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13031/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/StepFunctions/Scenarios/StepFunctionsBasics.csproj
+  detection_source: dotnetv3/StepFunctions/Scenarios/StepFunctionsBasics.csproj
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.3
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+  detection_source: dotnetv3/ACM/DescribeCertificates/DescribeCertificateTest/DescribeCertificateTest.csproj
+- name: urllib3
+  description: HTTP library with thread-safe connection pooling
+  package_url: https://pypi.org/project/urllib3
+  version: 1.26.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+  vulnerabilities:
+  - name: urllib3's request body not stripped after redirect from 303 status changes
+      request method to GET
+    cve_id: CVE-2023-45803
+    cve_url: https://github.com/advisories/GHSA-g4mx-q9vg-27p4
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.26.18
+  - name: "`Cookie` HTTP header isn't stripped on cross-origin redirects"
+    cve_id: CVE-2023-43804
+    cve_url: https://github.com/advisories/GHSA-v845-jxx5-vc9f
+    detected_date: Oct 3
+    severity: moderate
+    first_patched: 1.26.17
+- name: PyGithub
+  description: Use the full Github API v3
+  package_url: https://pypi.org/project/PyGithub
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19957/default_f0290ff2792e2af7d13f5c82ed82206842ec288d.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/.github/sd-cpp-linter/requirements.txt
+  detection_source: ".github/sd-cpp-linter/requirements.txt"
+- name: anthropic
+  description: The official Python library for the anthropic API
+  package_url: https://pypi.org/project/anthropic
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+  detection_source: python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+- name: awscli
+  description: Universal Command Line Environment for AWS
+  package_url: https://pypi.org/project/awscli
+  version: 1.27.81
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20010/default_01ad0299ca69c7b3e7fb7fee7a49e261bc9d294a.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/apigateway_covid-19_tracker/requirements.txt
+  detection_source: python/cross_service/apigateway_covid-19_tracker/requirements.txt
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  version: 1.17.105
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: ".tools/test/eventbridge_rule_with_sns_fanout/requirements.txt"
+- name: botocore
+  description: Low-level, data-driven core of boto 3
+  package_url: https://pypi.org/project/botocore
+  version: 1.20.105
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19884/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: cassandra-driver
+  description: Python driver for Cassandra
+  package_url: https://pypi.org/project/cassandra-driver
+  version: 3.25.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20674/default_ca8a7c0121f396ca313266975a74e56523b049f5.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/keyspaces/requirements.txt
+  detection_source: python/example_code/keyspaces/requirements.txt
+- name: chalice
+  description: Microframework
+  package_url: https://pypi.org/project/chalice
+  version: 1.27.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/apigateway_covid-19_tracker/requirements.txt
+  detection_source: python/cross_service/apigateway_covid-19_tracker/requirements.txt
+- name: colorama
+  description: Cross-platform colored terminal text
+  package_url: https://pypi.org/project/colorama
+  version: 0.4.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-agent-runtime/requirements.txt
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: iniconfig
+  description: Brain-dead simple config-ini parsing
+  package_url: https://pypi.org/project/iniconfig
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: jmespath
+  description: JSON Matching Expressions
+  package_url: https://pypi.org/project/jmespath
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19993/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: langchain
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+  detection_source: python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+- name: moto
+  description: A library that allows your python tests to easily mock out the boto
+    library
+  package_url: https://pypi.org/project/moto
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/secretsmanager/requirements.txt
+  detection_source: python/example_code/secretsmanager/requirements.txt
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/project/packaging
+  version: '20.9'
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: pluggy
+  description: Plugin and hook calling mechanisms for python
+  package_url: https://pypi.org/project/pluggy
+  version: 0.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20041/default_77eeab9aff24a2723c1f19fed32966a15b17d874.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: pytest-asyncio
+  description: Pytest support for asyncio
+  package_url: https://pypi.org/project/pytest-asyncio
+  version: 0.21.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-agent-runtime/requirements.txt
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: pytest-xdist
+  description: Pytest xdist plugin for distributed testing and loop-on-failing modes
+  package_url: https://pypi.org/project/pytest-xdist
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20307/default_506725603cd9affb22ffa36e3939310b26cbf952.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/devicefarm/browser_testing/Pipfile
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.1
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+  detection_source: python/example_code/bedrock-runtime/models/anthropic/claude3_chatbot_demo/requirements.txt
+- name: qrcode
+  description: QR Code image generator
+  package_url: https://pypi.org/project/qrcode
+  version: 7.4.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20148/default_29fd040eb57820a7b7a415b9eba1bba73c05d9c8.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/cognito/requirements.txt
+  detection_source: python/example_code/cognito/requirements.txt
+- name: s3transfer
+  description: An Amazon S3 Transfer Manager
+  package_url: https://pypi.org/project/s3transfer
+  version: 0.4.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20042/default_15ea2ed8281eccea374610791971ca44800f16ec.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: selenium
+  description: Python bindings for Selenium
+  package_url: https://pypi.org/project/selenium
+  version: 3.141.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19869/default_d05f6f09935776629f62e8aed365805502c14921.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/devicefarm/browser_testing/Pipfile
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/example_code/devicefarm/browser_testing/Pipfile.lock
+  detection_source: python/example_code/bedrock-agent-runtime/requirements.txt
+- name: tomlkit
+  description: Style preserving TOML library
+  package_url: https://pypi.org/project/tomlkit
+  version: 0.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20350/default_af2b356cd035e5e1c010a45df43c17b898af8c44.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/rustv1/tools/requirements.txt
+  detection_source: rustv1/tools/requirements.txt
+- name: webargs
+  description: Declarative parsing and validation of HTTP request objects
+  package_url: https://pypi.org/project/webargs
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20341/default_3670ab404b4eee78239483be316d65defac12ad1.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/aurora_item_tracker/requirements.txt
+  detection_source: python/cross_service/aurora_item_tracker/requirements.txt
+- name: websockets
+  description: An implementation of the WebSocket Protocol
+  package_url: https://pypi.org/project/websockets
+  version: '10.4'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19951/default_fbe690a687f1af7dc36ac3d526708be3294c4cc9.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/python/cross_service/apigateway_websocket_chat/requirements.txt
+  detection_source: python/cross_service/apigateway_websocket_chat/requirements.txt
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/Gemfile.lock
+  detection_source: javascriptv3/example_code/reactnative/ReactNativeApp/Gemfile
+- name: json
+  description: This is a JSON implementation as a Ruby extension in C
+  package_url: https://rubygems.org/json
+  version: 2.6.3
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18822/default_19184669508c0f71aec9521d5f14d71b77203130.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/reactnative/ReactNativeApp/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: mail
+  description: A really Ruby Mail handler
+  package_url: https://rubygems.org/mail
+  version: 2.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18937/default_ec64e7b00489c2b012b637eba2526e31e442c25b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: multi_json
+  description: A common interface to multiple JSON libraries
+  package_url: https://rubygems.org/multi_json
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18851/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: openssl
+  description: It wraps the OpenSSL library
+  package_url: https://rubygems.org/openssl
+  version: 3.1.0
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19257/default_5be59e441bab59448de14521b665c153ffa1e00b.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: rack
+  description: Rack provides a minimal, modular and adaptable interface for developing
+    web applications in Ruby
+  package_url: https://rubygems.org/rack
+  version: 2.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18839/default_db5cfb0d85d9fd8bfb40a863581417a2a57791ab.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: rack-test
+  description: Rack::Test is a small, simple testing API for Rack apps
+  package_url: https://rubygems.org/rack-test
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18845/default_db5cfb0d85d9fd8bfb40a863581417a2a57791ab.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: 13.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: rubocop-github
+  description: Code style checking for GitHub Ruby repositories
+  package_url: https://rubygems.org/rubocop-github
+  version: 0.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: rubyzip
+  description: Rubyzip is a ruby module for reading and writing zip files
+  package_url: https://rubygems.org/rubyzip
+  version: 2.3.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18887/default_1e22ca9f3f63a8c93249bae500705b9451e7e882.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: sequel
+  description: The Database Toolkit for Ruby
+  package_url: https://rubygems.org/sequel
+  version: 5.69.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18894/default_31c6044490fb5c1bec1388b8ceb466b6ac78ae92.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: zip
+  description: Zip is a Ruby library for reading and writing Zip files
+  package_url: https://rubygems.org/zip
+  version: 2.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19402/default_3c41830855910bbb63cb9885bf4cf4eee530e5ba.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/ruby/Gemfile.lock
+  detection_source: ruby/Gemfile
+- name: aws/aws-sdk-php
+  description: AWS SDK for PHP - Use Amazon Web Services in your PHP project
+  package_url: https://packagist.org/aws/aws-sdk-php
+  version: 3.293.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/applications/photo_asset_manager/composer.json
+- name: aws/aws-sdk-php-laravel
+  description: A simple Laravel 5/6/7/8/9 service provider for including the AWS SDK
+    for PHP
+  package_url: https://packagist.org/aws/aws-sdk-php-laravel
+  version: 3.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: guzzlehttp/guzzle
+  description: Guzzle is a PHP HTTP client library
+  package_url: https://packagist.org/guzzlehttp/guzzle
+  version: 7.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: laravel/framework
+  description: The Laravel Framework
+  package_url: https://packagist.org/laravel/framework
+  version: 9.52.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: laravel/tinker
+  description: Powerful REPL for the Laravel framework
+  package_url: https://packagist.org/laravel/tinker
+  version: 2.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: mockery/mockery
+  description: Mockery is a simple yet flexible PHP mock object framework
+  package_url: https://packagist.org/mockery/mockery
+  version: 1.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: nunomaduro/collision
+  description: Cli error handling for console/command-line PHP applications
+  package_url: https://packagist.org/nunomaduro/collision
+  version: 6.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/cross_service/aurora_item_tracker/composer.lock
+  detection_source: php/cross_service/aurora_item_tracker/composer.json
+- name: php-mock/php-mock-phpunit
+  description: Mock built-in PHP functions
+  package_url: https://packagist.org/php-mock/php-mock-phpunit
+  version: 2.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/applications/photo_asset_manager/composer.json
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: 9.6.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/applications/photo_asset_manager/composer.json
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  version: 3.7.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/php/composer.lock
+  detection_source: php/composer.json
+- name: gjson
+  description: Get JSON values quickly - JSON parser for Go
+  package_url: https://pkg.go.dev/github.com/tidwall/gjson
+  version: 1.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/resources/cdk/go-apprunner/go.sum
+  detection_source: resources/cdk/go-apprunner/go.mod
+  vulnerabilities:
+  - name: regular expression denial of service in gjson
+    cve_id: CVE-2021-42836
+    cve_url: https://github.com/advisories/GHSA-ppj4-34rq-v8j9
+    detected_date: Oct 26
+    severity: high
+    first_patched: 1.9.3
+- name: go-jmespath
+  description: Golang implementation of JMESPath
+  package_url: https://pkg.go.dev/github.com/jmespath/go-jmespath
+  version: 0.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/gov2/aurora/go.sum
+  detection_source: gov2/aurora/go.mod
+- name: go-spew
+  description: Implements a deep pretty printer for Go data structures to aid in debugging
+  package_url: https://pkg.go.dev/github.com/davecgh/go-spew
+  version: 1.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/gov2/aurora/go.sum
+  detection_source: gov2/dynamodb/go.mod
+- name: google/uuid
+  description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication
+    and Security Services'
+  package_url: https://pkg.go.dev/github.com/google/uuid
+  version: 1.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/gov2/aurora/go.sum
+  detection_source: gov2/aurora/go.mod
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.9.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/gov2/bedrock-runtime/go.sum
+  detection_source: gov2/bedrock-runtime/go.mod
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/cognito_flutter_mobile_app/pubspec.lock
+  detection_source: kotlin/usecases/cognito_flutter_mobile_app/pubspec.yaml
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/cognito_flutter_mobile_app/pubspec.lock
+  detection_source: kotlin/usecases/cognito_flutter_mobile_app/pubspec.yaml
+- name: flutter_secure_storage
+  description: Flutter Secure Storage provides API to store data in secure storage
+  package_url: https://pub.dartlang.org/flutter_secure_storage
+  version: 4.2.1
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/esherrill-uisg/aws-doc-sdk-examples/blob/main/kotlin/usecases/cognito_flutter_mobile_app/pubspec.lock
+  detection_source: kotlin/usecases/cognito_flutter_mobile_app/pubspec.yaml
