@@ -1257,11 +1257,11 @@ eventbridge:
 firehose:
   long: "&FHlong;"
   short: "&FH;"
-  sort: Kinesis Data Firehose
+  sort: Data Firehose
   api_ref: firehose/latest/APIReference/Welcome.html
   expanded:
-    long: Amazon Kinesis Data Firehose
-    short: Kinesis Data Firehose
+    long: Amazon Data Firehose
+    short: Data Firehose
   blurb: "is a fully managed service for delivering real-time streaming data to &AWS; destinations and third-party HTTP endpoints."
   guide:
     subtitle: User Guide
@@ -1964,6 +1964,36 @@ macie2:
   tags:
     product_categories: {}
   version: '2020-01-01'
+marketplace-agreement:
+  api_ref: marketplace-agreements/latest/api-reference/welcome.html
+  blurb: provides an API interface that helps AWS Marketplace sellers manage their agreements, including listing, filtering, and viewing details about their agreements.
+  expanded:
+    long: AWS Marketplace Agreement Service
+    short: AWS Marketplace Agreement Service
+  guide:
+    subtitle: Seller Guide
+    url: marketplace/latest/userguide/what-is-marketplace.html
+  long: '&MKTAgreementlong;'
+  short: '&MKTAgreement;'
+  sort: Marketplace Agreement Service
+  tags:
+    product_categories: {'Marketplace'}
+  version: marketplace-agreement-2020-03-01
+marketplace-catalog:
+  api_ref: marketplace-catalog/latest/api-reference/welcome.html
+  blurb: provides an API interface for approved providers to programmatically manage their products.
+  expanded:
+    long: AWS Marketplace Catalog API
+    short: AWS Marketplace Catalog API
+  guide:
+    subtitle: Seller Guide
+    url: marketplace/latest/userguide/what-is-marketplace.html
+  long: '&MKTCAPIlong;'
+  short: '&MKTCAPI;'
+  sort: Marketplace Catalog API
+  tags:
+    product_categories: {'Marketplace'}
+  version: marketplace-catalog-2018-09-17
 mediaconnect:
   api_ref: mediaconnect/latest/APIReference/Welcome.html
   blurb: ''
@@ -2295,6 +2325,7 @@ payment-cryptography-data:
     product_categories: {}
   version: '2022-02-03'
 personalize:
+  bundle: personalize
   long: "&PERSlong;"
   short: "&PERS;"
   sort: Personalize
@@ -2310,6 +2341,7 @@ personalize:
     product_categories: {'Machine Learning &amp; AI'}
   version: personalize-2018-05-22
 personalize-runtime:
+  bundle: personalize
   long: "&PERSRlong;"
   short: "&PERSR;"
   sort: Personalize Runtime
@@ -2325,6 +2357,7 @@ personalize-runtime:
     product_categories: {'Machine Learning &amp; AI'}
   version: personalize-runtime-2018-05-22
 personalize-events:
+  bundle: personalize
   long: "&PERSElong;"
   short: "&PERSE;"
   sort: Personalize Events
