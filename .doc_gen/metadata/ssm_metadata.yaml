@@ -13,11 +13,20 @@ ssm_Hello:
             - description:
               snippet_tags:
                 - ssm.java2.hello.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.hello
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -88,11 +97,20 @@ ssm_CreateOpsItem:
             - description:
               snippet_tags:
                 - ssm.java2.create_ops.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.createOpsItem
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -111,11 +129,20 @@ ssm_UpdateMaintenanceWindow:
             - description:
               snippet_tags:
                 - ssm.java2.update_window.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.updateMaintenanceWindow
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -134,11 +161,20 @@ ssm_CreateMaintenanceWindow:
             - description:
               snippet_tags:
                 - ssm.java2.create_window.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.createMaintenanceWindow
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -157,11 +193,20 @@ ssm_SendCommand:
             - description:
               snippet_tags:
                 - ssm.Java2.send_command.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.sendCommand
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -171,11 +216,20 @@ ssm_SendCommand:
     ssm: {SendCommand}
 ssm_ListCommandInvocations:
   languages:
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.listCommandInvocations
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -194,11 +248,20 @@ ssm_CreateDocument:
             - description:
               snippet_tags:
                 - ssm.java2.create_doc.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.createDocument
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -217,11 +280,20 @@ ssm_DescribeOpsItems:
             - description:
               snippet_tags:
                 - ssm.java2.describe_ops.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.describeOpsItems
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -235,7 +307,7 @@ ssm_DeleteOpsItem:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -254,11 +326,20 @@ ssm_DeleteMaintenanceWindow:
             - description:
               snippet_tags:
                 - ssm.java2.delete_window.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.deleteMaintenanceWindow
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -277,11 +358,20 @@ ssm_DeleteDocument:
             - description:
               snippet_tags:
                 - ssm.Java2.delete_doc.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.deleteDocument
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -300,11 +390,20 @@ ssm_UpdateOpsItem:
             - description:
               snippet_tags:
                 - ssm.Java2.resolve_ops.main
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.updateOpsItem
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description:
               snippet_tags:
@@ -328,11 +427,21 @@ ssm_Scenario:
             - description: A wrapper class for &SYS; SDK methods.
               snippet_tags:
                 - ssm.java2.actions.main    
+    JavaScript:
+      versions:
+        - sdk_version: 3
+          github: javascriptv3/example_code/ssm
+          sdkguide:
+          genai: some
+          excerpts:
+            - description:
+              snippet_tags:
+                - ssm.JavaScript.Basics.scenario
     Python:
       versions:
         - sdk_version: 3
           github: python/example_code/ssm
-          sdkguide:
+          genai: some
           excerpts:
             - description: Run an interactive scenario at a command prompt.
               snippet_tags:

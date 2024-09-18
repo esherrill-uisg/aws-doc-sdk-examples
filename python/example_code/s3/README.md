@@ -68,7 +68,7 @@ Code excerpts that show you how to call individual service functions.
 - [GetObjectLockConfiguration](scenarios/object-locking/cleanup.py#L17)
 - [HeadBucket](s3_basics/bucket_wrapper.py#L64)
 - [ListBuckets](s3_basics/bucket_wrapper.py#L85)
-- [ListObjectsV2](s3_basics/object_wrapper.py#L21)
+- [ListObjectsV2](s3_basics/object_wrapper.py#L99)
 - [PutBucketAcl](s3_basics/bucket_wrapper.py#L122)
 - [PutBucketCors](s3_basics/bucket_wrapper.py#L171)
 - [PutBucketLifecycleConfiguration](s3_basics/bucket_wrapper.py#L279)
@@ -85,15 +85,10 @@ Code examples that show you how to accomplish a specific task by calling multipl
 functions within the same service.
 
 - [Create a presigned URL](s3_basics/presigned_url.py)
-<<<<<<< HEAD
-- [Get started with buckets and objects](s3_basics/scenario_getting_started.py)
-- [Manage versioned objects in batches with a Lambda function](python/example_code/s3/s3_versioning)
-=======
-- [Create an Amazon Textract explorer application](python/cross_service/textract_explorer)
-- [Detect entities in text extracted from an image](python/cross_service/textract_comprehend_notebook)
-- [Detect objects in images](python/cross_service/photo_analyzer)
-- [Manage versioned objects in batches with a Lambda function](python/code_examples/s3_versioning)
->>>>>>> 80a2ce34d (Run WRITEME for recategorization.)
+- [Create an Amazon Textract explorer application](../../cross_service/textract_explorer)
+- [Detect entities in text extracted from an image](../../cross_service/textract_comprehend_notebook)
+- [Detect objects in images](../../cross_service/photo_analyzer)
+- [Manage versioned objects in batches with a Lambda function](../../example_code/s3/s3_versioning)
 - [Upload or download large files](file_transfer/file_transfer.py)
 - [Work with versioned objects](s3_versioning/versioning.py)
 

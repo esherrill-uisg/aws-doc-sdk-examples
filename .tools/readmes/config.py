@@ -136,6 +136,7 @@ language = {
                 "device-farm": "python/example_code/devicefarm",
                 "elastic-load-balancing-v2": "python/example_code/elastic-load-balancing",
                 "secrets-manager": "python/example_code/secretsmanager",
+                "dynamodb": "python/example_code/dynamodb"
             },
         }
     },
@@ -155,6 +156,14 @@ language = {
             "service_folder": 'rustv1/examples/{{service["name"]}}',
             "sdk_api_ref": 'https://docs.rs/aws-sdk-{{service["name"]}}/latest/aws_sdk_{{service["name"]}}/',
             "service_folder_overrides": {
+                "api-gateway": "rustv1/examples/apigateway",
+                "apigatewaymanagementapi": "rustv1/examples/apigatewaymanagement",
+                "application-auto-scaling": "rustv1/examples/applicationautoscaling",
+                "cognito-identity-provider": "rustv1/examples/cognitoidentityprovider",
+                "cognito-sync": "rustv1/examples/cognitosync",
+                "rds-data": "rustv1/examples/rdsdata",
+                "route-53": "rustv1/examples/route53",
+                "secrets-manager": "rustv1/examples/secretsmanager",
                 "sesv2": "rustv1/examples/ses",
                 "ses": "rustv1/examples/_NONE_",
             },
@@ -175,7 +184,15 @@ language = {
         1: {
             "base_folder": "swift",
             "service_folder": 'swift/example_code/{{service["name"]}}',
-            "sdk_api_ref": 'https://awslabs.github.io/aws-sdk-swift/reference/0.x/AWS{{service["name"] | capitalize}}/Home',
+            "sdk_api_ref": '{% set name = service["name"] | replace("-","") -%}https://sdk.amazonaws.com/swift/api/aws{{name}}/latest/documentation/aws{{name}}',
+            "service_folder_overrides": {
+                "cognito-identity": "swift/example_code/cognito-identity",
+                "dynamodb": "swift/example_code/dynamodb",
+                "iam": "swift/example_code/iam",
+                "s3": "swift/example_code/s3",
+                "sts": "swift/example_code/sts"
+            }
+
         }
     },
     "Bash": {

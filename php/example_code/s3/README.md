@@ -45,8 +45,8 @@ Code examples that show you how to perform the essential operations within a ser
 
 Code excerpts that show you how to call individual service functions.
 
-- [CopyObject](GettingStartedWithS3.php#L52)
-- [CreateBucket](GettingStartedWithS3.php#L52)
+- [CopyObject](GettingStartedWithS3.php#L104)
+- [CreateBucket](GettingStartedWithS3.php#L61)
 - [DeleteBucket](GettingStartedWithS3.php#L52)
 - [DeleteObjects](GettingStartedWithS3.php#L52)
 - [GetObject](GettingStartedWithS3.php#L52)
@@ -59,7 +59,7 @@ Code examples that show you how to accomplish a specific task by calling multipl
 functions within the same service.
 
 - [Create a presigned URL](PresignedURL.php)
-- [Create a serverless application to manage photos](php/applications/photo_asset_manager)
+- [Create a serverless application to manage photos](../../applications/photo_asset_manager)
 
 
 <!--custom.examples.start-->

@@ -60,7 +60,7 @@ Code excerpts that show you how to call individual service functions.
 - [DeleteDBCluster](getting_started_with_db_clusters.cpp#L1047)
 - [DeleteDBClusterParameterGroup](getting_started_with_db_clusters.cpp#L1117)
 - [DeleteDBInstance](getting_started_with_db_clusters.cpp#L1017)
-- [DescribeDBClusterParameterGroups](getting_started_with_db_clusters.cpp#L295)
+- [DescribeDBClusterParameterGroups](getting_started_with_db_clusters.cpp#L276)
 - [DescribeDBClusterParameters](getting_started_with_db_clusters.cpp#L786)
 - [DescribeDBClusterSnapshots](getting_started_with_db_clusters.cpp#L701)
 - [DescribeDBClusters](getting_started_with_db_clusters.cpp#L746)
@@ -74,7 +74,7 @@ Code excerpts that show you how to call individual service functions.
 Code examples that show you how to accomplish a specific task by calling multiple
 functions within the same service.
 
-- [Create an Aurora Serverless work item tracker](cpp/example_code/cross-service/serverless-aurora)
+- [Create an Aurora Serverless work item tracker](../../example_code/cross-service/serverless-aurora)
 
 
 <!--custom.examples.start-->

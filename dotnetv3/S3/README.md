@@ -50,6 +50,7 @@ Code excerpts that show you how to call individual service functions.
 - [DeleteObjects](S3_Basics/S3Bucket.cs#L221)
 - [GetBucketAcl](BucketACLExample/BucketACL.cs#L75)
 - [GetBucketCors](s3CORSExample/S3CORS.cs#L125)
+- [GetBucketEncryption](PutBucketEncryption/ServerSideEncryption/ServerSideEncryption.cs#L107)
 - [GetBucketLifecycleConfiguration](LifecycleExample/Lifecycle.cs#L169)
 - [GetBucketWebsite](WebsiteConfigExample/WebsiteConfig.cs#L72)
 - [GetObject](S3_Basics/S3Bucket.cs#L85)
@@ -62,6 +63,7 @@ Code excerpts that show you how to call individual service functions.
 - [PutBucketAccelerateConfiguration](TransferAccelerationExample/TransferAcceleration.cs#L6)
 - [PutBucketAcl](BucketACLExample/BucketACL.cs#L37)
 - [PutBucketCors](s3CORSExample/S3CORS.cs#L104)
+- [PutBucketEncryption](PutBucketEncryption/ServerSideEncryption/ServerSideEncryption.cs#L64)
 - [PutBucketLifecycleConfiguration](LifecycleExample/Lifecycle.cs#L145)
 - [PutBucketLogging](ServerAccessLoggingExample/ServerAccessLogging.cs#L6)
 - [PutBucketNotificationConfiguration](EnableNotificationsExample/EnableNotifications.cs#L6)
@@ -87,7 +89,7 @@ functions within the same service.
 - [Manage access control lists (ACLs)](ManageACLsExample/ManageACLs.cs)
 - [Perform a multipart copy](MPUapiCopyObjExample/MPUapiCopyObj.cs)
 - [Transform data with S3 Object Lambda](../cross-service/S3ObjectLambdaFunction)
-- [Upload or download large files](scenarios/TransferUtilityBasics/TransferUtilityBasics/TransferBasics.cs)
+- [Upload or download large files](scenarios/TransferUtilityBasics/TransferUtilityBasics/GlobalUsings.cs)
 
 
 <!--custom.examples.start-->

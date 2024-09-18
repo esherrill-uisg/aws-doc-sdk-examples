@@ -72,7 +72,7 @@ Code excerpts that show you how to call individual service functions.
 - [ListBuckets](list_buckets.cpp#L29)
 - [ListObjectsV2](list_objects.cpp#L32)
 - [PutBucketAcl](put_bucket_acl.cpp#L47)
-- [PutBucketPolicy](put_bucket_policy.cpp#L37)
+- [PutBucketPolicy](put_bucket_policy.cpp#L68)
 - [PutBucketWebsite](put_website_config.cpp#L33)
 - [PutObject](put_object.cpp#L33)
 - [PutObjectAcl](get_put_object_acl.cpp#L165)
@@ -84,7 +84,7 @@ Code examples that show you how to accomplish a specific task by calling multipl
 functions within the same service.
 
 - [Create a presigned URL](presigned_get_object.cpp)
-- [Create a serverless application to manage photos](cpp/example_code/cross-service/photo_asset_manager)
+- [Create a serverless application to manage photos](../../example_code/cross-service/photo_asset_manager)
 - [Work with Amazon S3 object integrity](s3_object_integrity_workflow/s3_object_integrity_workflow.cpp)
 
 
