@@ -1,13 +1,13 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0
 
-import config
 import logging
 from collections import defaultdict
 from os.path import relpath
 from pathlib import Path
 from typing import Dict, List, Iterable, Optional, TypeVar
 
+import config
 from aws_doc_sdk_examples_tools.doc_gen import DocGen
 from aws_doc_sdk_examples_tools.metadata import Example
 from aws_doc_sdk_examples_tools.sdks import Sdk
@@ -29,8 +29,6 @@ class Scanner:
         self.sdk_ver: int = -1
         self.svc_name: str = ""
         self.snippets = None
-        self.entities: Dict[str, str] = {}
-        self._prepare_entities()
         self.examples: Dict[str, List[Example]] = {}
         self._build_examples()
         self.hellos: Dict[str, Example] = {}
@@ -40,15 +38,6 @@ class Scanner:
         self.customs: Dict[str, Example] = {}
         self.crosses: Dict[str, Example] = {}
         self.cross_scenarios: Dict[str, Example] = {}
-
-    def _prepare_entities(self):
-        for svc in self.services().values():
-            if svc.expanded:
-                self.entities[svc.long] = svc.expanded.long
-                self.entities[svc.short] = svc.expanded.short
-        # config entities override
-        for entity, expanded in config.entities.items():
-            self.entities[entity] = expanded
 
     def load_crosses(self):
         self.doc_gen.process_metadata(
@@ -111,9 +100,6 @@ class Scanner:
 
     def services(self) -> Dict[str, Service]:
         return self.doc_gen.services
-
-    def expand_entity(self, entity):
-        return self.entities[entity]
 
     def snippet(self, example: Example, readme_folder, api_name: str):
         if self.lang_name not in example.languages:

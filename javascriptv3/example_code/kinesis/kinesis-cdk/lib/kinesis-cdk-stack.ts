@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 import * as cdk from "aws-cdk-lib";
-import { Construct } from "constructs";
+import type { Construct } from "constructs";
 import * as kinesis from "aws-cdk-lib/aws-kinesis";
 
 export class KinesisCdkStack extends cdk.Stack {
@@ -12,6 +12,7 @@ export class KinesisCdkStack extends cdk.Stack {
     const stream = new kinesis.Stream(this, "ExampleStream", {
       streamName: "example-stream",
       encryption: kinesis.StreamEncryption.KMS,
+      removalPolicy: cdk.RemovalPolicy.DESTROY,
     });
 
     new cdk.CfnOutput(this, "ExampleStreamName", {

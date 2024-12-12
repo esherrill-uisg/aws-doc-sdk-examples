@@ -9,11 +9,16 @@ import PackageDescription
 
 let package = Package(
     name: "mocking",
+    // Let Xcode know the minimum Apple platforms supported.
+    platforms: [
+        .macOS(.v11),
+        .iOS(.v13)
+    ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(
             url: "https://github.com/awslabs/aws-sdk-swift",
-            from: "0.28.0"
+            from: "1.0.0"
         )
     ],
     // snippet-start:[mocking.swift.package.targets]
